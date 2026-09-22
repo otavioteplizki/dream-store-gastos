@@ -1,0 +1,10 @@
+{
+  "name": "dream-store-gastos",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Gestao de gastos da Dream Store",
+  "dependencies": {
+    "@netlify/database": "latest",
+    "@netlify/functions": "latest"
+  }
+}
